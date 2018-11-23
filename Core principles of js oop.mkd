@@ -1,0 +1,10 @@
+
+- encapsulation 
+    Reduce complexity + increase resusability
+- abstraction
+    Reduce complexity with simpler interface
+    Isolate the impact of change
+- Inheritance
+    Ellminate redundant code
+- Polymorphism 
+    Refactor ugly switch/case statements
